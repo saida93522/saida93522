@@ -73,7 +73,7 @@
   -----
   
   #### 🔥 My Stats:
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=saida93522&show_icons=true&theme=radical&text_color=9bc091&locale=en" alt="saida93522" />
+<!--   <img align="" src="https://github-readme-stats.vercel.app/api?username=saida93522&show_icons=true&theme=radical&text_color=9bc091&locale=en" alt="saida93522" /> -->
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saida93522&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="saida93522" />

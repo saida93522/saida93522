@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="90">
 </div>
 
 <div id="badges" align="left">
@@ -13,7 +13,7 @@
   I'm Saida</h1>
 <p align="left">A passionate software developer from Minnesota</p>
 <br>
-- 🔭 I’m currently working on: **Chat application**
+- 🔭 I’m currently working on: **Portfolio**
 
 - 🌱 I’m currently learning: **React**
 

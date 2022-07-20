@@ -8,9 +8,8 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=saida93522&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="left">Hi there
-  <img src="https://media.giphy.com/media/ZE6fovuAUGOGod9QSf/giphy.gif" width="50">,
-  I'm Saida</h1>
+<h1 align="left">Hi there, I'm Saida </h1> <img src="https://media.giphy.com/media/ZE6fovuAUGOGod9QSf/giphy.gif" width="50">
+
 <p align="left">A passionate software developer from Minnesota</p>
 <br>
 - 🔭 I’m currently working on: **Portfolio**

@@ -8,7 +8,14 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=saida93522&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="left">Hi there, I'm Saida </h1> <img src="https://media.giphy.com/media/ZE6fovuAUGOGod9QSf/giphy.gif" width="50">
+
+<div>
+  <h1 align="left">Hi there, I'm Saida 👋
+<!--   <img src="https://media.giphy.com/media/ZE6fovuAUGOGod9QSf/giphy.gif" width="50"> -->
+  
+  </h1> 
+ 
+</div>
 
 <p align="left">A passionate software developer from Minnesota</p>
 <br>

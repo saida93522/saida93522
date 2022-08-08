@@ -2,12 +2,7 @@
   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="90">
 </div>
 
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/saida-hussen">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="70">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=saida93522&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <div>
   <h1 align="left">Hi there, I'm Saida 👋
@@ -17,7 +12,7 @@
  
 </div>
 
-<p align="left">A passionate software developer from Minnesota</p>
+
 <br>
 - 🔭 I’m currently working on: **Portfolio**
 

@@ -1,17 +1,6 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="90">
+  <img src="banner.png" width="100%">
 </div>
-
-
-
-<div>
-  <h1 align="left">Hi there, I'm Saida 👋
-<!--   <img src="https://media.giphy.com/media/ZE6fovuAUGOGod9QSf/giphy.gif" width="50"> -->
-  
-  </h1> 
- 
-</div>
-
 
 <br>
 - 🔭 I’m currently working on: **BookFinder**
@@ -20,14 +9,15 @@
 
 - 📫 How to reach me: **saidahussen4@gmail.com**
 
-- ⚡ Fun fact: **voracious reader 📖** 
+- ⚡ Fun fact: **voracious reader 📖**
 
 <h4 align="left">Connect with me:</h4>
 <div align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saida-hussen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saida-hussen" height="20" width="40" /></a>
 </div>
 
------
+---
+
 <h4 align="left">Languages and Tools:</h4>
 <div align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -59,11 +49,11 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>&nbsp;
-  </a> 
+  </a>
 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="30"/>&nbsp;
-  </a> 
+  </a>
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"/>&nbsp;
@@ -76,6 +66,4 @@
   #### 🔥 My Stats:
 <!--   <img align="" src="https://github-readme-stats.vercel.app/api?username=saida93522&show_icons=true&theme=radical&text_color=9bc091&locale=en" alt="saida93522" /> -->
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saida93522&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="saida93522" />
-

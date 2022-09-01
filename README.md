@@ -3,11 +3,12 @@
 </div>
 
 <br>
-- 🔭 I’m currently working on: **BookFinder**
 
-- 🌱 I’m currently learning: **React**
+- 🔭 I’m currently working on: ** BookFinder **
 
-- 📫 How to reach me: **saidahussen4@gmail.com**
+- 🌱 I’m currently learning: ** React **
+
+- 📫 How to reach me: ** saidahussen4@gmail.com **
 
 - ⚡ Fun fact: **voracious reader 📖**
 
@@ -20,8 +21,6 @@
 
 <h4 align="left">Languages and Tools:</h4>
 <div align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="30"/>&nbsp; </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>&nbsp; 
   </a>
@@ -60,10 +59,6 @@
   </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/>&nbsp; </a> 
 </div>
-  
-  -----
-  
-  #### 🔥 My Stats:
-<!--   <img align="" src="https://github-readme-stats.vercel.app/api?username=saida93522&show_icons=true&theme=radical&text_color=9bc091&locale=en" alt="saida93522" /> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saida93522&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="saida93522" />
+ 
+
